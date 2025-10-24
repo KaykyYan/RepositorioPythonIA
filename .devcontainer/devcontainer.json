@@ -18,7 +18,15 @@
 				},
 			"extensions": [
 				"ms-python.python",
-				"shd101wyy.markdown-preview-enhanced"
+				"shd101wyy.markdown-preview-enhanced",
+				"steoates.autoimport",
+				"NuclleaR.vscode-extension-auto-import",
+				"moppitz.vscode-extension-auto-import",
+				"davidwoo.flutter-auto-import",
+				"IgorSbitnev.error-gutters",
+				"usernamehw.errorlens",
+				"hashicorp.terraform",
+				"PKief.material-icon-theme"
 			]
 		}
 	}
