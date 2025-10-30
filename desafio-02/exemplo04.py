@@ -6,19 +6,11 @@
 # O programa deve calcular o consumo médio (km/l) e exibir todos os dados da viagem, 
 # incluindo o resultado final arredondado para duas casas decimais.
 
-<<<<<<< HEAD
-distancia_percorrida = 300;
-=======
 distancia_percorrida = 300
->>>>>>> a51a0a3 (Realização dos exercicios da atividade 3)
 combustivel_gasto = 25;
 
 consumo_medio = distancia_percorrida / combustivel_gasto;
 
 print(f"\nDistância percorrida: {distancia_percorrida} km")
 print(f"Combustível gasto: {combustivel_gasto} litros")
-<<<<<<< HEAD
 print(f"Consumo médio: {consumo_medio:.2f} km/l")
-=======
-print(f"Consumo médio: {consumo_medio:.2f} km/l")
->>>>>>> a51a0a3 (Realização dos exercicios da atividade 3)
