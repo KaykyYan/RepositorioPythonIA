@@ -16,4 +16,8 @@ media = soma / 3;
 print(f"\nNota 1: {nota1}")
 print(f"Nota 2: {nota2}")
 print(f"Nota 3: {nota3}")
+<<<<<<< HEAD
 print(f"Média final: {media:.2f}")
+=======
+print(f"Média final: {media:.2f}")
+>>>>>>> a51a0a3 (Realização dos exercicios da atividade 3)
