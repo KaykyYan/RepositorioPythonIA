@@ -6,6 +6,7 @@
 # O programa deve calcular o consumo médio (km/l) e exibir todos os dados da viagem, 
 # incluindo o resultado final arredondado para duas casas decimais.
 
+distancia_percorrida = 300;
 distancia_percorrida = 300
 combustivel_gasto = 25;
 

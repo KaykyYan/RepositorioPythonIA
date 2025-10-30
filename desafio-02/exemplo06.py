@@ -11,8 +11,6 @@
 # Imprima o número do funcionário e o salário calculado com duas casas decimais. 
 # Deve haver um espaço em branco antes e depois do sinal de igualdade, 
 # e no caso do salário, também um espaço em branco após o R$
-
-
 numero_funcionario = int(input('Digite o número do funcionário: '))
 horas_trabalhadas = int(input('Digite a quantidade de horas trabalhadas: '))
 valor_por_hora = float(input('Digite o valor recebido por hora: '))
