@@ -12,7 +12,7 @@
 # Deve haver um espaço em branco antes e depois do sinal de igualdade, 
 # e no caso do salário, também um espaço em branco após o R$
 
-<<<<<<< HEAD
+
 numero_funcionario = int(input('Digite o número do funcionário: '))
 horas_trabalhadas = int(input('Digite a quantidade de horas trabalhadas: '))
 valor_por_hora = float(input('Digite o valor recebido por hora: '))
@@ -21,8 +21,3 @@ salario = horas_trabalhadas * valor_por_hora
 
 print(f"\nNúmero do funcionário = {numero_funcionario}")
 print(f"Salário = R$ {salario:.2f}")
-=======
-numero_funcionario = int(input('Digite o numero de funcionarios: '))
-horas_trabalhadas = float(input('Digite as horas trabalhadas: '))
-valor_por_hora = float(input('Digite o valor pela hora'))
->>>>>>> a51a0a3 (Realização dos exercicios da atividade 3)
