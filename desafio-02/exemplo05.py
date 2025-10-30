@@ -5,7 +5,6 @@
 # Entrada: A entrada contém 2 valores inteiros informados pelo usuário. 
 # Saída: Imprima a mensagem "X = " (letra X maiúscula) seguido pelo valor da variável X e pelo final de linha.
 
-<<<<<<< HEAD
 valor1 = int(input('Digite o primeiro número: '))
 valor2 = int(input('Digite o segundo número: '))
 
@@ -13,14 +12,4 @@ soma = valor1 + valor2;
 
 print(f"\nPrimeiro número digitado: {valor1}")
 print(f"Segundo número digitado: {valor2}")
-=======
-valor1 = int(input('Digite o primeiro numero: '))
-valor2 = int(input('Digite o segundo numero: '))
-
-soma = valor1 + valor2;
-
-
-print(f"Primeiro numero digitado: {valor1}")
-print(f"Primeiro numero digitado: {valor2}")
->>>>>>> a51a0a3 (Realização dos exercicios da atividade 3)
 print(f"X = {soma}")
